@@ -1,5 +1,5 @@
 # Kyma-Ex
-Kyma is related kubernetes.
+Kyma is (related kubernetes)  is a platform for extending applications with serverless functions and microservices. It provides a selection of cloud-native projects glued together to simplify the creation and management of extensions..
 
 Microservice Deployment in Kyma:
 Here are few steps to deploy microservice to Kyma environment. We will take a small example for reference.
